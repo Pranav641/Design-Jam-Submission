@@ -589,3 +589,31 @@ th
 {
 	font-size: 18px;
 }
+
+@media (max-width: 499px)
+{
+	.early_img
+	{
+		margin-left: auto; margin-right: auto;
+	}
+	
+	{
+		margin-right: 45px;
+	}
+	.ind-a_img
+	{
+		margin-right: 80px;
+	}
+	.intl_img3
+	{
+		margin-left: 70px;
+	}
+	.intl_img4
+	{
+		margin-right: 100px;
+	}
+	.personal_img
+	{
+		margin-left: 100px;
+	}
+}
